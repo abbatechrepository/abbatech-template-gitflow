@@ -1,11 +1,10 @@
 ---
-
 name: "[FEATURE] Nova funcionalidade"
 about: Descreva uma nova funcionalidade
 title: "[FEATURE] "
 labels: feature
 assignees: ""
--------------
+---
 
 ## Descrição
 
