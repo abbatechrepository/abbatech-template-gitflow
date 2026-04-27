@@ -1,11 +1,10 @@
 ---
-
 name: "[BUG] Reporte de problema"
 about: Relatar erro encontrado no sistema
 title: "[BUG] "
 labels: bug
 assignees: ""
--------------
+---
 
 ## Descrição do problema
 
